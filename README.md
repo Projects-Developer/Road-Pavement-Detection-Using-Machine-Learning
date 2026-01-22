@@ -18,7 +18,6 @@ Keywords: Road Pavement Detection, Machine Learning, Convolutional Neural Networ
 
 3. Research Paper
 
-
 4. Code
 
 5. Explanation video
@@ -26,7 +25,6 @@ Keywords: Road Pavement Detection, Machine Learning, Convolutional Neural Networ
 6. Documents
 
 7. Report
-
 
 ### Need Code, Documents & Explanation video ? 
 
@@ -36,4 +34,4 @@ Keywords: Road Pavement Detection, Machine Learning, Convolutional Neural Networ
 
 ### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
 
-### 💻 Computer Science Projects: https://www.computer-science-project.in/
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
